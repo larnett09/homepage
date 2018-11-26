@@ -2,7 +2,7 @@
 
 The purpose of this page is to create a place to showcase my resume and Github projects. As well glimpse into my personality a bit. I hope you enjoy.
 
-<object data=https://github.com/larnett09/Homepage/blob/gh-pages/Levi%20Arnett%20Resume.docx type=application/pdf width=100% height=100%>
+<object data="https://github.com/larnett09/Homepage/blob/gh-pages/Levi%20Arnett%20Resume.docx" type="application/pdf" width="100%" height="100%">
 </object>
 
 ## About Me:
