@@ -1,15 +1,4 @@
 theme: jekyll-theme-minimal
-# top level stuff you probably don't need to touch
-highlighter: rouge
-markdown: kramdown
-rdiscount:
-  extensions: [smart]
-permalink: 
-paginate: 5
-plugins: [jekyll-paginate]
-port: 3000
-safe: true
-
 
 # edit here to achieve your personal greatness
 url: http://larnett09.github.io/
