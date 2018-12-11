@@ -1,2 +1,28 @@
 theme: jekyll-theme-minimal
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: 
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
 
+
+# edit here to achieve your personal greatness
+url: http://larnett09.github.io/
+baseurl: //
+title: Levi Arnett
+author: Levi Arnett
+description: Personal blog and resume
+avatar: 
+email: larnett.br@outlook.com
+github: jekyller/larnett09 # username
+twitter: 
+linkedin:
+stackoverflow:   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+disqus:
+google_analytics:
