@@ -1,17 +1,2 @@
 theme: jekyll-theme-minimal
 
-# edit here to achieve your personal greatness
-url: 
-baseurl: 
-title: Levi Arnett
-author: Levi Arnett
-description: Personal blog and resume
-avatar: 
-email: larnett.br@outlook.com
-github:larnett09 # username
-twitter: 
-linkedin:
-stackoverflow:   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus
-disqus:
-google_analytics:
