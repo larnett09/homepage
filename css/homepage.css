@@ -39,12 +39,15 @@ header {
 }
 
 .artgalleryh2{
-  font color: #0BBA05;
+  color: #0BBA05;
+  text-align: center;
 }
 
 img {
     max-width: 100%;
     max-height: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 nav {
