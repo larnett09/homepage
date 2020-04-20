@@ -28,6 +28,12 @@ header {
     grid-template-columns: 1fr 1fr;
 }
 
+.wrapper3{
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+}
+
 nav {
   grid-column: span 3;
 }
