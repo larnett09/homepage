@@ -110,5 +110,6 @@ main {
 footer {
   clear: both;
   background-color: #1B1C1D;
+  text-align: center;
   grid-column: span 3;
 }
