@@ -38,6 +38,11 @@ header {
     grid-template-columns: 1fr;
 }
 
+.artgalleryh2{
+  color: #0BBA05;
+  
+}
+
 img {
     max-width: 100%;
     max-height: 100%;
