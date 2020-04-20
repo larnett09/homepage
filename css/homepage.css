@@ -1,8 +1,8 @@
-*{
+* {
   font-family: Hack;
 }
 
-body{
+body {
   background-color: #050506;
 }
 
@@ -12,50 +12,44 @@ header {
 }
 
 .wrapper1 {
-    margin: 1em auto;
-    padding: 0;
-    width: 960px;
-    background-color: #1B1C1D;
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+  background-color: #1B1C1D;
 }
 
 .wrapper2 {
-    margin: 1em auto;
-    padding: 0;
-    width: 960px;
-    border: 4px solid #0BBA05;
-    background-color: #1B1C1D;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+  margin: 1em auto;
+  padding: 0;
+  width: 960px;
+  border: 4px solid #0BBA05;
+  background-color: #1B1C1D;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .wrapper3 {
-    margin: 1em auto;
-    padding: 1;
-    width: 960px;
-    border: 4px solid #0BBA05;
-    background-color: #1B1C1D;
+  margin: 1em auto;
+  padding: 1;
+  width: 960px;
+  border: 4px solid #0BBA05;
+  background-color: #1B1C1D;
 }
 
-.wrapper4 {
-    margin: 1em auto;
-    padding: 1;
-    width: 960px;
-    border: 4px solid #0BBA05;
-    background-color: #1B1C1D;
-    display: grid;
-    grid-template-columns: 1fr 1fr
-}
-
-.specialp1{
+.artgalleryh1 {
+  color: 0BBA05;
   text-align: center;
-  color: : #0BBA05;
+}
 
+.specialp1 {
+  text-align: center;
+  color: #0BBA05;
 }
 
 img {
-    max-width: 100%;
-    max-height: 100%;
-    margin-left: 10px;
+  max-width: 100%;
+  max-height: 100%;
+  margin-left: 10px;
 }
 
 nav {
@@ -89,7 +83,7 @@ nav li a:hover {
   color: #050506;
 }
 
-.imagefloat{
+.imagefloat {
   float: center;
   margin-left: 30px;
   margin-top: 50px;
@@ -100,7 +94,6 @@ main {
   grid-column: span 2;
   color: #B8B8B8;
 }
-
 
 footer {
   clear: both;
