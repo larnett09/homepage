@@ -97,6 +97,12 @@ nav li a:hover {
   margin-bottom: 50px;
 }
 
+.img1{
+  height: auto;
+  width: auto;
+
+}
+
 main {
   grid-column: span 2;
   color: #B8B8B8;
@@ -109,7 +115,6 @@ footer {
   text-align: center;
   grid-column: span 3;
   font-size: 1.5em;
-
 }
 
 .fab{
