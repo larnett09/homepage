@@ -57,6 +57,15 @@ header {
   text-align: center;
 }
 
+img{
+  display: block;
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+
+
 nav {
   grid-column: span 3;
 }
